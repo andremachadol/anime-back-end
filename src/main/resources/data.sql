@@ -1,0 +1,1 @@
+insert into anime (nome, genero, eps) values ('DBZ', 'shonen', '294');

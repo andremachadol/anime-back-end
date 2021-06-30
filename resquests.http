@@ -1,0 +1,14 @@
+
+
+GET http://localhost:8080/
+###
+
+POST http://localhost:8080/adicionar
+Content-Type: application/json
+
+{
+"nome": "naruto",
+"genero": "shounen",
+"eps": "720"
+}
+
